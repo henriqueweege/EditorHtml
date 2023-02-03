@@ -1,0 +1,15 @@
+C:\Balta\EditorHtml\bin\Debug\net7.0\EditorHtml.exe
+C:\Balta\EditorHtml\bin\Debug\net7.0\EditorHtml.deps.json
+C:\Balta\EditorHtml\bin\Debug\net7.0\EditorHtml.runtimeconfig.json
+C:\Balta\EditorHtml\bin\Debug\net7.0\EditorHtml.dll
+C:\Balta\EditorHtml\bin\Debug\net7.0\EditorHtml.pdb
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.AssemblyReference.cache
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfoInputs.cache
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.AssemblyInfo.cs
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.dll
+C:\Balta\EditorHtml\obj\Debug\net7.0\refint\EditorHtml.dll
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.pdb
+C:\Balta\EditorHtml\obj\Debug\net7.0\EditorHtml.genruntimeconfig.cache
+C:\Balta\EditorHtml\obj\Debug\net7.0\ref\EditorHtml.dll
